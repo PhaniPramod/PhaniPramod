@@ -4,12 +4,6 @@
   <strong>Senior QA Engineer | Quality Strategy | Test Automation | AI-Assisted QA</strong>
 </p>
 
-<p align="center">
-  Toronto, Canada &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/phanipramodk/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:phanipramodk@gmail.com">Email</a>
-</p>
-
 I build quality strategies and automation systems for enterprise software. My work combines risk-based testing, UI and API automation, CI/CD, data validation, and AI-assisted workflows to help teams release with confidence.
 
 ### Impact
@@ -51,5 +45,3 @@ I build quality strategies and automation systems for enterprise software. My wo
 ### Background
 
 I have delivered quality engineering for enterprise retail and clienteling platforms at Salesfloor, Jesta I.S., and DXC Technology. I hold a **Master's in Quality Systems Engineering** from Concordia University.
-
-If you are building reliable products and need hands-on quality leadership, I would be happy to connect on [LinkedIn](https://www.linkedin.com/in/phanipramodk/) or by [email](mailto:phanipramodk@gmail.com).
